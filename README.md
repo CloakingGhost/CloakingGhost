@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Strong
 - Java / Spring Boot / MySQL
 ### Knowledgeable
-- JavaScript / React / Python
+- TypeScript / Next.js / Python
 ### ETC
 - Git / Docker
 
